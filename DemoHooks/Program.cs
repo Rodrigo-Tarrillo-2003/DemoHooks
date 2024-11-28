@@ -5,7 +5,7 @@ if (edad >= 18)
 {
     Console.WriteLine("Es mayor de edad ");
                             }
-                                    else
+             else
 {
     Console.WriteLine("Es menor de edad");
-            }
+ }
